@@ -17,7 +17,7 @@ class LoginPage extends StatelessWidget {
           icon: Icon(Icons.arrow_back,
           size: 20,
           color: Colors.black,),
-
+             
 
         ),
       ),
